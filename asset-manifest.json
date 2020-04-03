@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mr-Roboto/static/css/main.6edff9f1.chunk.css",
+    "main.js": "/Mr-Roboto/static/js/main.c79777a7.chunk.js",
+    "main.js.map": "/Mr-Roboto/static/js/main.c79777a7.chunk.js.map",
+    "runtime-main.js": "/Mr-Roboto/static/js/runtime-main.41193a90.js",
+    "runtime-main.js.map": "/Mr-Roboto/static/js/runtime-main.41193a90.js.map",
+    "static/js/2.62d78548.chunk.js": "/Mr-Roboto/static/js/2.62d78548.chunk.js",
+    "static/js/2.62d78548.chunk.js.map": "/Mr-Roboto/static/js/2.62d78548.chunk.js.map",
+    "index.html": "/Mr-Roboto/index.html",
+    "precache-manifest.6da9f6a97f94a0ac4a30de674fa67f8e.js": "/Mr-Roboto/precache-manifest.6da9f6a97f94a0ac4a30de674fa67f8e.js",
+    "service-worker.js": "/Mr-Roboto/service-worker.js",
+    "static/css/main.6edff9f1.chunk.css.map": "/Mr-Roboto/static/css/main.6edff9f1.chunk.css.map",
+    "static/js/2.62d78548.chunk.js.LICENSE.txt": "/Mr-Roboto/static/js/2.62d78548.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41193a90.js",
+    "static/js/2.62d78548.chunk.js",
+    "static/css/main.6edff9f1.chunk.css",
+    "static/js/main.c79777a7.chunk.js"
+  ]
+}
